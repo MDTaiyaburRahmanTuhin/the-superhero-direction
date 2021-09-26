@@ -1,0 +1,8 @@
+.shop{
+    margin-left: 20px;
+    overflow: hidden;
+}
+/* 
+
+<button onClick={() => props.handleAddProduct(props.product)} className="btn btn-primary">Add product</button>
+*/
